@@ -3,7 +3,7 @@ Soy un desarrollador full-stack altamente motivado y apasionado por el aprendiza
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-felipe-morales-319ab21a9) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-felipe-morales-dev) 
 [![Gmail Badge](https://img.shields.io/badge/-carrionfelipe15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carrionfelipe15@gmail.com)](mailto:carrionfelipe15@gmail.com)
 
 # 💻 Tech Stack:
